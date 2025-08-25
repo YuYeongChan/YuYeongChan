@@ -8,7 +8,7 @@ AI·데이터 처리·백엔드·프론트엔드 전반을 다룰 수 있는 풀
 ## 🚀 Projects
 
 ### 📌 [MS_Project](https://github.com/YuYeongChan/MS_Project)  
-**시민 참여형 공공시설 파손 신고 플랫폼 (Hackathon Project)**  
+**시민 참여형 공공시설 파손 신고 플랫폼 (인공지능 S/W 아카데미 Project)**  
 - **Frontend**: React Native, Android Studio
 - **Backend**: Python, FastAPI, Node.js  
 - **AI**: Faster R-CNN, ResNet50, SAM, BLIP-2  

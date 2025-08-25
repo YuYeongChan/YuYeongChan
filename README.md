@@ -35,7 +35,7 @@ AI·데이터 처리·백엔드·프론트엔드 전반을 다룰 수 있는 풀
 ---
 
 ### 📌 [my-portfolio](https://github.com/YuYeongChan/my-portfolio)  
-**소규모 학습 프로젝트 모음**  
+**소규모 학습 프로젝트 모음 (인공지능 S/W 아카데미 수강 중 진행)**  
 - SQL + MongoDB 데이터 처리 실습  
 - Flask 기반 간단 웹서비스  
 - React 프론트엔드 미니 앱 모음  

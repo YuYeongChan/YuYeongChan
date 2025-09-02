@@ -9,11 +9,11 @@ AI·데이터 처리·백엔드·프론트엔드 전반을 다룰 수 있는 풀
 
 ### 📌 [MS_Project](https://github.com/YuYeongChan/MS_Project)  
 **시민 참여형 공공시설 파손 신고 플랫폼 (인공지능 S/W 아카데미 Project)**  
-- **Frontend**: React Native, Android Studio
-- **Backend**: Python, FastAPI, Node.js  
-- **AI**: Faster R-CNN, ResNet50, SAM, BLIP-2  
-- **Database**: Oracle 
-- **Infra**: Azure AI, Azure Container, Docker  
+- **프론트엔드**: React Native, Android Studio  
+- **백엔드**: Python, FastAPI, Node.js
+- **AI 모델**: Mask R-CNN, SAM, BLIP-2, Whisper  
+- **클라우드/배포**: Microsoft Azure AI, Azure Container, Docker, ACR/ACI
+- **Database**: OracleDB 
 > 시민이 제보한 이미지를 AI로 분석하여 파손 시설을 자동 인식하고 공공기관에 전달하는 플랫폼  
 
 ---
